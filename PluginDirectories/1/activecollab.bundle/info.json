@@ -1,0 +1,11 @@
+{
+  "categories" : [
+    "Utilities"
+  ],
+  "displayName" : "activeCollab search",
+  "name" : "activecollab",
+  "description" : "Search your activeCollab",
+  "examples" : [
+    "acollab search My great project"  
+  ]
+}

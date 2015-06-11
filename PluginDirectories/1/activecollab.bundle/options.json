@@ -1,0 +1,16 @@
+{
+	"options" : [
+        {
+            "text": "activeCollab Instance URL",
+            "key": "ac_instance_url",
+            "type": "text"
+            
+        },
+        {
+        	"text":"API Key",
+            "key":"api_key",
+        	"type":"text"
+        	
+        }
+    ]
+}
